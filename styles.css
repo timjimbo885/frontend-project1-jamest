@@ -43,7 +43,22 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: green;
+    background-color: coral;
+}
+
+.tagline
+{
+
+  color: coral;
+  background-color: yellow;
+  border: dashed;
+  margin-top: 15px;
+  border-radius: 10px;
+  display: table;
+  margin: 35px auto 20px;
+  padding: 10px;
+
 }
 .nav li {
   padding: 5px 10px 10px 10px;
