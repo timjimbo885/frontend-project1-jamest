@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid gold;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -90,7 +90,7 @@ header .profile-image:hover {
   background-color: #222;
   color: yellow;
 }
-.card {
+.info {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -100,7 +100,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.cardexp {
+.experience {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -110,10 +110,10 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.cardexp:hover {
+.experience:hover {
   border-color: yellow;
 }
-.card:hover {
+.info:hover {
   border-color: yellow;
 }
 .pets{
