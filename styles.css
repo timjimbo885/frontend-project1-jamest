@@ -165,6 +165,8 @@ header .profile-image:hover {
 }
 .workstation{
   float: left;
+  position: relative;
+  margin-top: 60px;
 
 }
 .hometown{
